@@ -9,11 +9,8 @@ This project is a simple yet effective demonstration of **computer vision** and 
 
 ---
 
-## 🎥 Demo Video  
-[![Face Detection System Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]
-(https://youtube.com/shorts/2xxO79XVWUc)  
-
-📌 *Click the image above to watch the video!*  
+## 📹 Demo Video  
+[![Face Detection Demo](https://img.youtube.com/vi/2xxO79XVWUc/0.jpg)](https://youtube.com/shorts/2xxO79XVWUc)  
 
 ---
 
@@ -31,14 +28,14 @@ This project is a simple yet effective demonstration of **computer vision** and 
 - 🐍 **Python (OpenCV)** – Face detection.  
 - 💡 **Arduino IDE** – Microcontroller programming.  
 - 🔹 **PyCharm** – Python development environment.  
-![Face Detected](images/software.png)
+![Face Detected](Face-Detection-Arduino-OpenCV/images/software.png)
 
 ### **Hardware**  
 - 🔌 **Arduino UNO** – Main microcontroller.  
 - 🔴 **LEDs (Red & Yellow)** – Visual indicators.  
 - 🔗 **Breadboard & Jumper Wires** – Circuit connections.  
 - 🔧 **220Ω Resistors** – LED current limiting.
-![Face Detected](images/hardware.png)   
+![Face Detected](Face-Detection-Arduino-OpenCV/images/hardware.png)   
 
 ---
 
@@ -50,8 +47,6 @@ Face-Detection-Arduino-OpenCV/
 │   │── arduino_serial.py
 │── images/
 │   │── face_detection_output.png
-│── videos/
-│   │── face_detection_demo.mp4
 │── README.md
 │── LICENSE
 ```
@@ -97,7 +92,7 @@ Upload the Arduino sketch using **Arduino IDE**.
 ## 📸 Screenshots  
 
 ### **Face Detected (Yellow LED ON)**              ### **No Face Detected (Red LED ON)**  
-![Face Detected](images/face_detection_output.png)  
+![Face Detected](Face-Detection-Arduino-OpenCV/images/face_detection_output.png)  
 
 ---
 
@@ -119,6 +114,9 @@ Contributions are welcome! Feel free to fork and submit PRs.
 ---
 
 ## 📧 Contact  
-For questions or collaboration:  
-**Muhammad Fahad Imdad**  
-📧 [fahadimdad966@gmail.com](mailto:fahadimdad966@gmail.com)  
+For any questions or suggestions, reach out:  
+- **Muhammad Fahad Imdad**  
+- 📧 **Email**: [fahadimdad966@gmail.com](mailto:fahadimdad966@gmail.com)  
+- 🔗 **LinkedIn**: [Muhammad Fahad Imdad](https://www.linkedin.com/in/muhammad-fahad-imdad)  
+- 🐙 **GitHub**: [FahadImdad](https://github.com/FahadImdad)  
+
