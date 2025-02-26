@@ -91,7 +91,7 @@ Upload the Arduino sketch using **Arduino IDE**.
 
 ## 📸 Screenshots  
 
-### **Face Detected (Yellow LED ON)**              ### **No Face Detected (Red LED ON)**  
+#### **😊 Face Detected (🟡 Yellow LED ON) and 😐 No Face Detected (🔴 Red LED ON)**  
 ![Face Detected](Face-Detection-Arduino-OpenCV/images/face_detection_output.png)  
 
 ---
